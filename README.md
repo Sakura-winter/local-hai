@@ -98,13 +98,13 @@ localhai/
 │   │   ├── database.py     # DB engine + sessions
 │   │   └── main.py         # FastAPI entrypoint
 │   ├── alembic/            # DB migrations
-│   ├── seed.py             # Demo data script
+│   ├── seed.py             # Demo data script for testing
 │   └── ...
 │
-├── terraform/              # (placeholder — managed separately)
-├── ansible/                # (placeholder — managed separately)
-├── puppet/                 # (placeholder — managed separately)
-└── nagios/                 # (placeholder — managed separately)
+├── terraform/              
+├── ansible/                
+├── puppet/                 
+└── nagios/                 
 ```
 
 ---
